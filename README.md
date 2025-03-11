@@ -23,9 +23,9 @@ The primary objectives of this initiative are outlined as follows:
 - <a href="SuperSales Dashboard.pbix">PowerBi Report</a>
 
 ## KPIs Used:
-Orders: The total number of customer orders placed within a specific time period.
-Sales: The overall revenue generated from all completed transactions.
-Profit: The net earnings after deducting costs and expenses from total sales.
-Ship Days: The average time taken to deliver orders from shipment to arrival.
-These KPIs help in monitoring store performance, optimizing operations, and improving customer satisfaction in the Power BI dashboard.
+<li>Orders: The total number of customer orders placed within a specific time period.</li>
+<li>Sales: The overall revenue generated from all completed transactions.</li>
+<li>Profit: The net earnings after deducting costs and expenses from total sales.</li>
+<li>Ship Days: The average time taken to deliver orders from shipment to arrival.</li>
+<li>These KPIs help in monitoring store performance, optimizing operations, and improving customer satisfaction in the Power BI dashboard.</li>
 
